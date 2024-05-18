@@ -2,10 +2,15 @@
 
 ## Оглавление
 [1. Описание проекта](https://github.com/Nasim2506/my_works/edit/master/Project_1/Readme.md#Описание-проекта)
+
 [2. Какой кейс решаем?](https://github.com/Nasim2506/my_works/edit/master/Project_1/Readme.md#Какой-кейс-решаем)  
+
 [3. Краткая информация о данных](https://github.com/Nasim2506/my_works/edit/master/Project_1/Readme.md#Краткая-информация-о-данных)  
+
 [4. Этапы работы над проектом](https://github.com/Nasim2506/my_works/edit/master/Project_1/Readme.md#Этапы-работы-над-проектом)  
+
 [5. Результат](https://github.com/Nasim2506/my_works/edit/master/Project_1/Readme.md#Результат)    
+
 [6. Выводы](https://github.com/Nasim2506/my_works/edit/master/Project_1/Readme.md#Выводы) 
 
 ### Описание проекта  
