@@ -1,0 +1,6 @@
+flask
+numpy
+uwsgi
+gunicorn
+pandas
+scikit-learn
