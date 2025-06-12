@@ -1,4 +1,4 @@
-# [Проект 2. Анализ результатов A/B-тестирования](https://github.com/Nasim2506/my_works/blob/master/A_B_testing/ab_test.ipynb)
+# [Анализ результатов A/B-тестирования](https://github.com/Nasim2506/my_works/blob/master/A_B_testing/ab_test.ipynb)
 
 ## Оглавление
 [1. Описание проекта](https://github.com/Nasim2506/my_works/edit/master/A_B_testing#1-описание-проекта)
